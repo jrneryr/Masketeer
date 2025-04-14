@@ -1,4 +1,4 @@
-# 🎭 react-input-masker
+# 🎭 react-masketeer
 
 A lightweight and modern library to apply **input masks** in **React** applications. Perfect for handling formats like CPF, CNPJ, phone numbers, ZIP codes, dates, and more — with ease and flexibility.
 
