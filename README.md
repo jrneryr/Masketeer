@@ -39,7 +39,7 @@ const App = () => {
   return (
     <div>
       <label>Phone Number:</label>
-      <InputMask mask="(99) 99999-9999" placeholder="(00) 00000-0000" />
+      <InputMask mask="(XX) XXXXX-XXXX" placeholder="(00) 00000-0000" />
     </div>
   );
 };
